@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 [![project_license][license-shield]][license-url]
->
+[![Go][Go]][Go-url]
 <br />
 <div align="center">
 
@@ -17,9 +17,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -37,12 +34,6 @@
 ## About The Project
 
 Pokedex is a REPL application written in Go for learning purposes of Go. It connects to pokeAPI and allows user to search locations for pokemons.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-* [![Go][Go]][Go-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,9 +99,11 @@ Pokedex >
 
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Distributed under the MIT license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [license-url]: https://github.com/MaciejSieradz/pokedexcli/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/MaciejSieradz/pokedexcli.svg?style=for-the-badge
 [Go-url]: https://go.dev/
+[Go]: https://img.shields.io/badge/logo-Go-blue?logo=Go?style=for-the-badge
