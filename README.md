@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 [![project_license][license-shield]][license-url]
-[![Go][Go]][Go-url]
+[![Go]][Go-url]
 <br />
 <div align="center">
 
@@ -106,4 +106,4 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/MaciejSieradz/pokedexcli/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/MaciejSieradz/pokedexcli.svg?style=for-the-badge
 [Go-url]: https://go.dev/
-[Go]: https://img.shields.io/badge/logo-Go-blue?logo=Go?style=for-the-badge
+[Go]: https://img.shields.io/badge/Go-1.24-blue?logo=go
